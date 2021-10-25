@@ -76,7 +76,15 @@
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="24" height="24"/> 
       </a>
     </li>
-    <li>How to reach me: <a href="https://linkedin.com/in/domferr" target="blank">Linkedin</a> - <a href="mailto:ferraro.domenico125@gmail.com" target="blank">ferraro.domenico125@gmail.com</a>
+    <li>If you have a freelance project or job opportunity in mind, drop me a mail and I’d be happy to chat!
+      <div align="left">
+        <a href="https://linkedin.com/in/domferr" target="blank">
+          Linkedin
+        </a> - 
+        <a href="mailto:ferraro.domenico125@gmail.com" target="blank">
+          ferraro.domenico125@gmail.com
+        </a>
+      </div>
     </li>
   </ul>
 </p>
@@ -180,7 +188,7 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
   </a>
-</p>
+</p>--!>
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=domferr&show_icons=true&locale=en&layout=compact" alt="domferr" /></p>
 
