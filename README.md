@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm Domenico</h2>
-<h4 align="left">A passionate software developer from Italy</h4>
+<p align="left">A passionate software developer from Italy. Currently I'm enrolled into the MSc in Computer Science at the University of Pisa. I've got more than 5-years of hands-on experience building and testing desktop software and mobile apps!</p>
 
 <p align="left">
   <ul>
