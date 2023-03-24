@@ -1,5 +1,8 @@
 <h2 align="left">Hi 👋, I'm Domenico</h2>
-<p align="left">A passionate software developer from Italy. Currently I'm enrolled into the MSc in Computer Science at the University of Pisa. I've got more than 5-years of hands-on experience building and testing desktop software and mobile apps!</p>
+<p align="left">I'm a master's student in Computer Science at the University of Pisa and a Software Engineer at Verge Technologies Inc. With a passion for programming and problem-solving, I have been working in the field for the past few years, gaining valuable experience and expertise in various technologies and programming languages.
+<br></br>
+As a Software Engineer at Verge Technologies, I develop innovative software solutions for fully autonomous and optimized database management with zero downtime or outages. I am enthusiastic about tackling challenging projects that push the limits of software engineering.
+</p>
 <div align="center">
 <a href="https://www.java.com" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="24" height="24"/> 
@@ -71,7 +74,7 @@
 </div>
 </br>
 
-🔥 If you have a freelance project or job opportunity in mind, <a href="mailto:ferraro.domenico125@gmail.com" target="blank">drop me a mail</a> and I’d be happy to chat! 🔥
+🔥 If you're looking for a motivated and skilled Software Engineer to join your team, don't hesitate to <a href="mailto:ferraro.domenico125@gmail.com" target="blank">drop me a mail</a> and I’d be happy to chat! 🔥
 
 <!--
 <a href="https://linkedin.com/in/domferr" target="blank">
