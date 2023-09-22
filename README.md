@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/domferr/domferr/master/wave.gif" width = 30px> Hi there! I'm Domenico Ferraro</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/domferr/domferr/main/wave.gif" width="30px" /> Hi there! I'm Domenico Ferraro</h3>
 
 <!-- Profile Views 
 
