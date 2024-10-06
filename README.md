@@ -14,7 +14,7 @@
  <!-- About section -->
 
 ---
-✨ I'm a software engineer @ Aucta Cognitio with a passion for crafting innovative solutions. I have a strong background in backend development and a focus on delivering efficient and scalable software. 
+✨ I'm a Software Engineer and Maintaner of <a href="https://github.com/domferr/tilingshell">Tiling Shell</a> with a passion for crafting innovative solutions. I have a strong background in backend development and a focus on delivering efficient and scalable software. 
 
 My expertise includes leveraging technologies such as <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="18" height="18"/> Java Spring, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="18" height="18"/> Ansible, and <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="18" height="18"/> Docker to create microservices architectures that drive cutting-edge applications.
 
